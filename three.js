@@ -1,0 +1,20 @@
+var a="sneha"
+var b="vamsi"
+var c="siva"
+var d="s"
+var e=350
+var f=320.51
+var g=""
+console.log("plus operartor performs both" )
+console.log  (a+b)
+console.log  (a+c)
+console.log  (a+d)
+console.log  (a+e)
+console.log  (a+f)
+console.log  (a+g)
+console.log  (a*b)
+console.log  (a*c)
+console.log  (a*d)
+console.log  (a*e)
+console.log  (a*f)
+console.log  (a*g)
