@@ -8,3 +8,9 @@ console.log(typeof rating)
 
 
 
+var a=29
+var b=89.90
+var c="s"
+var d=;
+var e="fourty"
+var f=
