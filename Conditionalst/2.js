@@ -1,7 +1,3 @@
-let amount = 50000
-if(amount >80000){
-    console.log("GO to Goa")
-}
-else{
-    console.log("Go to Cinema")
-}
+//false ? console.log("GM") : console.log("GN")
+//10 > 5 ? console.log("GM") : console.log("GN")
+"Rahul" == "rahul" ? console.log("GM") : console.log("GN")
