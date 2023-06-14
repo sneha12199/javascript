@@ -4,7 +4,7 @@ let c=10
 if(a>b && a>c){
     console.log("a is greatest no.")
 }
-else if(b>c)
+else if( b>a && b>c)
 {
     console.log("b is greatest no.")
 }
