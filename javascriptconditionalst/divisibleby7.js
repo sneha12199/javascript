@@ -1,9 +1,9 @@
-let a=7
-if(a%6==0){
-    console.log("no. is divisible by 6")
+let a=21
+if(a%7==0){
+    console.log("no. is divisible by 7")
 }
 else{
     
-    console.log("no. is not divisible by 6")
+    console.log("no. is not divisible by 7")
 }    
 
