@@ -1,7 +1,7 @@
-let a=-4
-if(a<0){
-    console.log("negative")
+let a=328
+if(a%2==0){
+    console.log("no. is even")
 }
 else{
-    console.log("positive")
+    console.log("no. is not even")
 }
